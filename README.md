@@ -21,3 +21,9 @@ It allows users to **increase**, **decrease**, and **reset** a counter value.
 ---
 
 ## 📂 Project Structure
+counter-app/
+│
+├── index.html # Main structure of the app
+├── style.css # Styling of the app
+├── script.js # Counter functionality
+└── README.md # Project documentation
